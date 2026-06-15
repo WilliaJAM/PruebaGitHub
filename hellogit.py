@@ -1,4 +1,4 @@
 print('Segundo fichero')
 print('Modifiación')
 
-print('xd')
+input_user = input('Ingresa tu nombre')
