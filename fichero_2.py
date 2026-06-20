@@ -6,3 +6,5 @@ def cubicFunction(a):
 num = 4
 
 print(f'Cubo de {num}: {cubicFunction(num)}')
+
+print('Cmabio desde newClass')
