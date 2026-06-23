@@ -15,4 +15,4 @@ else:
         print('Buzz')
 
 print('Muy bien.., hagamos esto una ultima vez.')
-print('Hola, soy un conflicto.')
+print('Hola, soy un conflicto. O no?')
