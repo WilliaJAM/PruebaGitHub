@@ -23,3 +23,5 @@ lol = True
 '''
 Usando comentarios en Python
 '''
+def function():
+    pass
