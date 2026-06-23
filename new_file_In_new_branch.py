@@ -16,4 +16,4 @@ else:
         print('El Giro')
 
 print('Muy bien.., hagamos esto una ultima vez.')
-print('Testeando los conflictos.')
+lol = True
