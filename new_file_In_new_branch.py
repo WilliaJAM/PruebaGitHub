@@ -10,9 +10,10 @@ if ((num_user % 3 == 0) and (num_user % 7 == 0)) :
 else:
     if(num_user % 3 == 0):
         print('Fizz')
-    
-    if(num_user % 7 == 0):
+    elif(num_user % 7 == 0):
         print('Buzz')
+    else:
+        print('El Giro')
 
 print('Muy bien.., hagamos esto una ultima vez.')
 print('Testeando los conflictos.')
