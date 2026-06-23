@@ -5,7 +5,7 @@ def xd():
 num_user = int(input('Ingrese su numero'))
 
 
-if (num_user % 3 == 0 and num_user % 7 == 0) :
+if ((num_user % 3 == 0) and (num_user % 7 == 0)) :
     print('FizzBuzz')
 else:
     if(num_user % 3 == 0):
@@ -16,3 +16,4 @@ else:
         print('El Giro')
 
 print('Muy bien.., hagamos esto una ultima vez.')
+print('Hola, soy un conflicto.')
