@@ -16,6 +16,4 @@ else:
         print('El Giro')
 
 print('Muy bien.., hagamos esto una ultima vez.')
-
-num = 123
-
+print('Testeando los conflictos.')
