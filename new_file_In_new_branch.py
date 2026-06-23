@@ -19,3 +19,7 @@ print('Muy bien.., hagamos esto una ultima vez.')
 
 lol = True
 
+
+'''
+Usando comentarios en Python
+'''
