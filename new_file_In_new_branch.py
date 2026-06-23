@@ -27,4 +27,4 @@ def function():
     pass
 
 
-'XD'
+str = 'XD'
