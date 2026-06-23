@@ -17,5 +17,5 @@ else:
 
 print('Muy bien.., hagamos esto una ultima vez.')
 
-print('Hola, soy un conflicto. O no?')
+num = 123
 
