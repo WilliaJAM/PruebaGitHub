@@ -16,4 +16,6 @@ else:
         print('El Giro')
 
 print('Muy bien.., hagamos esto una ultima vez.')
-print('Hola, soy un conflicto. O si?')
+
+print('Hola, soy un conflicto. O no?')
+
