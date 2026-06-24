@@ -7,23 +7,20 @@ print(f'Hola, {input_user}')
 
 #Un XD
 
-#Terminar
+#TODO: En el ultimo if no esta valdando correctamente.
 def caffeine_buzz(n):
 
-    phrase = ''
-
-    if n % 3 == 0 and n % 4 == 0 and n % 2 == 0:
-        return 'mocha_missing!'
+    phrase = 'mocha_missing!'
 
     if n % 3 == 0 and n % 4 == 0:
         phrase = 'Coffee'
-    
-    if n % 3 == 0:
+    elif n % 3 == 0:
         phrase = 'Java'
 
-    return phrase + 'Script'
+    if (n % 3 == 0 or n % 4 == 0) and n % 2 == 0:
+        phrase += 'Script'
+
+    return phrase
 
 
-
-def xd():
-    pass
+print(caffeine_buzz(4))
