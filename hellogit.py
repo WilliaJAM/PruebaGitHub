@@ -22,3 +22,8 @@ def caffeine_buzz(n):
         phrase = 'Java'
 
     return phrase + 'Script'
+
+
+
+def xd():
+    pass
