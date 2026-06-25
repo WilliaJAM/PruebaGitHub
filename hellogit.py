@@ -1,9 +1,9 @@
 print('Segundo fichero')
 print('Modifiación')
 
-input_user = input('Ingresa tu nombre')
+# input_user = input('Ingresa tu nombre')
 
-print(f'Hola, {input_user}')
+# print(f'Hola, {input_user}')
 
 #Un XD
 
@@ -11,13 +11,16 @@ print(f'Hola, {input_user}')
 def caffeine_buzz(n):
 
     phrase = 'mocha_missing!'
+    validate = False
 
     if n % 3 == 0 and n % 4 == 0:
         phrase = 'Coffee'
+        validate = not validate
     elif n % 3 == 0:
         phrase = 'Java'
+        validate = not validate
 
-    if (n % 3 == 0 or n % 4 == 0) and n % 2 == 0:
+    if validate and n % 2 == 0:
         phrase += 'Script'
 
     return phrase
