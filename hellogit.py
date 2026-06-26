@@ -27,3 +27,7 @@ def caffeine_buzz(n):
 print('Frase: ',caffeine_buzz(4))
 
 
+
+def new_function():
+    pass
+
