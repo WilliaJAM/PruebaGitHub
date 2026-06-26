@@ -3,4 +3,5 @@ print('Modifiación')
 
 input_user = input('Ingresa tu nombre')
 
-print(f'Hola, {input_user}')
+def new_function():
+    pass
