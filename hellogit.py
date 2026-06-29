@@ -5,3 +5,4 @@ input_user = input('Ingresa tu nombre')
 
 print(f'Hola, {input_user}')
 #Un comentatio innecesario
+# Talvez no sea tan innecesario.
