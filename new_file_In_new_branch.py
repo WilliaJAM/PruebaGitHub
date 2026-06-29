@@ -28,3 +28,8 @@ def function():
 
 
 str = 'XD'
+
+if str == 'XD':
+    print('Es muy XDXDXD')
+else:
+    print('Deberias estar XD')
