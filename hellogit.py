@@ -35,3 +35,6 @@ def new_function():
 
 #Comentario desde el pasado
 
+print(f'Hola, {input_user}')
+#Un comentatio innecesario
+# Talvez no sea tan innecesario.
