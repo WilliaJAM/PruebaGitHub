@@ -1,6 +1,6 @@
 # README DE PRUEBA
 
-	| Syntax | Description |
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
